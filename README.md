@@ -2,6 +2,13 @@
 
 This Python script allows you to download YouTube videos, display the download progress dynamically in the terminal, and fetch English subtitles if available. The script uses the `pytube` library for downloading videos and handling video streams.
 
+
+
+https://github.com/praveen-p09/video-downloader/assets/128630671/a50566c7-59d6-467d-ac48-773a56db23c5
+
+
+![Screenshot 2024-05-17 195314](https://github.com/praveen-p09/video-downloader/assets/128630671/faa5cd5c-46c1-4662-8cd1-8279691ee8f0)
+
 ## Features
 
 - Downloads the highest resolution video available.
